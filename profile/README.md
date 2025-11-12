@@ -38,7 +38,7 @@ MyCn18 garantiza la calidad del código mediante su **Jerarquía de Nodos**, la 
 | **`mycn18-worker`** | **Motor de Ejecución y Orquestación.** Sandbox de VM2. | **MIT** | Público |
 | **`mycn18-community-sdks`** | **SDKs Comunitarios.** Plataforma para recibir contribuciones de integraciones. | **MIT** | Público |
 | **`mycn18-cli`** | **Herramientas Abstractas.** Self-Hosting y uso de SDKs desde la terminal. | **MIT** | Privado |
-| **`mycn18-ui-editor`** | Interfaz de Usuario. | **MIT** | Privado |
+| **`mycn18-ui`** | Interfaz de Usuario. | **MIT** | Privado |
 | **`mycn18-ui-utilities`** | **Catálogo de Nodos y Generador de Código (PI).** | Proprietary | Privado |
 | **`mycn18-private-sdks`** | **Integraciones Premium/Oficiales (PI).** | Proprietary | Privado |
 
