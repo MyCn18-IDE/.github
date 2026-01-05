@@ -4,7 +4,7 @@
 
 #### Créditos e Inspiración
 
-Quisiera dar el crédito intelectual de la visión de un "IDE de auditoría de agentes" a **[Toni Soriano](https://www.google.com/search?q=https://www.linkedin.com/in/toni-soriano-76218b32)**. Toni tuvo la idea magistral de replantear cómo interactuamos con la IA en el código antes que yo. Este proyecto es mi interpretación técnica y personal de ese concepto, buscando llevarlo a la práctica con un enfoque en simulación y transparencia total.
+Quisiera dar el crédito intelectual de la visión de un "IDE de auditoría de agentes" a **[Toni Soriano](https://www.linkedin.com/in/toni-soriano-76218b32/?originalSubdomain=es)**. Toni tuvo la idea magistral de replantear cómo interactuamos con la IA en el código antes que yo. Este proyecto es mi interpretación técnica y personal de ese concepto, buscando llevarlo a la práctica con un enfoque en simulación y transparencia total.
 
 #### Estado actual
 
