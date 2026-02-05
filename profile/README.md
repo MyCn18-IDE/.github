@@ -87,6 +87,3 @@ I would like to grant intellectual credit for the vision of an "Agent Auditing I
 Currently in early development. The goal is to build the definitive tool for developers who prioritize strategic direction over repetitive syntax.
 
 To collaborate or follow progress, visit our **[portal](https://moduszero.github.io/landing/en)** to be notified as soon as the first downloadable release is available.
-
----
-> **Modus Zero**: *Leading a healthy and professional engineering ecosystem.*
